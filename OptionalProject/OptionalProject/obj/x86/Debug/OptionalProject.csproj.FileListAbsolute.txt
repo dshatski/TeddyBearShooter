@@ -1,0 +1,30 @@
+D:\Courses\MOOC\GDD 1200\Optional Project\start\OptionalProject\OptionalProject\bin\x86\Debug\Content\burger.xnb
+D:\Courses\MOOC\GDD 1200\Optional Project\start\OptionalProject\OptionalProject\bin\x86\Debug\Content\explosion.xnb
+D:\Courses\MOOC\GDD 1200\Optional Project\start\OptionalProject\OptionalProject\bin\x86\Debug\Content\frenchfries.xnb
+D:\Courses\MOOC\GDD 1200\Optional Project\start\OptionalProject\OptionalProject\bin\x86\Debug\Content\teddybear.xnb
+D:\Courses\MOOC\GDD 1200\Optional Project\start\OptionalProject\OptionalProject\bin\x86\Debug\Content\teddybearprojectile.xnb
+D:\Courses\MOOC\GDD 1200\Optional Project\start\OptionalProject\OptionalProject\bin\x86\Debug\Content\Arial20.xnb
+D:\Courses\MOOC\GDD 1200\Optional Project\start\OptionalProject\OptionalProject\bin\x86\Debug\OptionalProject.exe
+D:\Courses\MOOC\GDD 1200\Optional Project\start\OptionalProject\OptionalProject\bin\x86\Debug\OptionalProject.pdb
+D:\Courses\MOOC\GDD 1200\Optional Project\start\OptionalProject\OptionalProject\obj\x86\Debug\OptionalProject.csprojResolveAssemblyReference.cache
+D:\Courses\MOOC\GDD 1200\Optional Project\start\OptionalProject\OptionalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Courses\MOOC\GDD 1200\Optional Project\start\OptionalProject\OptionalProject\obj\x86\Debug\OptionalProject.exe
+D:\Courses\MOOC\GDD 1200\Optional Project\start\OptionalProject\OptionalProject\obj\x86\Debug\OptionalProject.pdb
+D:\Courses\MOOC\GDD 1200\Optional Project\start\OptionalProject\OptionalProject\bin\x86\Debug\Collisions.dll
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\OptionalProjectTemplate\OptionalProject\OptionalProject\bin\x86\Debug\Content\burger.xnb
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\OptionalProjectTemplate\OptionalProject\OptionalProject\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\OptionalProjectTemplate\OptionalProject\OptionalProject\bin\x86\Debug\Content\frenchfries.xnb
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\OptionalProjectTemplate\OptionalProject\OptionalProject\bin\x86\Debug\Content\teddybear.xnb
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\OptionalProjectTemplate\OptionalProject\OptionalProject\bin\x86\Debug\Content\teddybearprojectile.xnb
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\OptionalProjectTemplate\OptionalProject\OptionalProject\bin\x86\Debug\OptionalProject.exe
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\OptionalProjectTemplate\OptionalProject\OptionalProject\bin\x86\Debug\OptionalProject.pdb
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\OptionalProjectTemplate\OptionalProject\OptionalProject\bin\x86\Debug\Collisions.dll
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\OptionalProjectTemplate\OptionalProject\OptionalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\OptionalProjectTemplate\OptionalProject\OptionalProject\obj\x86\Debug\OptionalProject.exe
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\OptionalProjectTemplate\OptionalProject\OptionalProject\obj\x86\Debug\OptionalProject.pdb
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\OptionalProjectTemplate\OptionalProject\OptionalProject\bin\x86\Debug\Content\TeddyBounce.xnb
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\OptionalProjectTemplate\OptionalProject\OptionalProject\bin\x86\Debug\Content\GameAudio.xgs
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\OptionalProjectTemplate\OptionalProject\OptionalProject\bin\x86\Debug\Content\Wave Bank.xwb
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\OptionalProjectTemplate\OptionalProject\OptionalProject\bin\x86\Debug\Content\Sound Bank.xsb
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\OptionalProjectTemplate\OptionalProject\OptionalProject\bin\x86\Debug\Content\Arial20.xnb
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\OptionalProjectTemplate\OptionalProject\OptionalProject\obj\x86\Debug\OptionalProject.csprojResolveAssemblyReference.cache

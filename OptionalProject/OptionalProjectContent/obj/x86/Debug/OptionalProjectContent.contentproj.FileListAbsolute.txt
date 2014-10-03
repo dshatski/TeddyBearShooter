@@ -1,0 +1,2 @@
+D:\Courses\MOOC\GDD 1200\Optional Project\start\OptionalProject\OptionalProjectContent\obj\x86\Debug\OptionalProjectContent.contentprojResolveAssemblyReference.cache
+C:\Users\Anna\Documents\Visual Studio 2010\Projects\OptionalProjectTemplate\OptionalProject\OptionalProjectContent\obj\x86\Debug\OptionalProjectContent.contentprojResolveAssemblyReference.cache
